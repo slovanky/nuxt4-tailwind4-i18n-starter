@@ -1,0 +1,5 @@
+{
+  "welcome": "Welcome to Nuxt 4 Starter",
+  "switch_lang": "Switch to English",
+  "description": "A minimal starter project with Nuxt 4, Tailwind 4, and i18n."
+}

@@ -1,8 +1,8 @@
 # Nuxt 4 + Tailwind 4 + i18n Starter
 
-هذا مشروع بداية (Starter Project) مبني على أحدث التقنيات لعام 2025.
+هذا مشروع بداية (Starter Project) مبني على أحدث التقنيات لعام 2026.
 
-A minimal, high-performance starter template built with the latest web technologies for 2025.
+A minimal, high-performance starter template built with the latest web technologies for 2026.
 
 ## 🚀 Features | المميزات
 
